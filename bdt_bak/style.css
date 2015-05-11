@@ -1,0 +1,51 @@
+body {
+    background: #DDD;
+    font-family: sans-serif;
+}
+
+    
+
+h1 {
+    color: #000;
+    text-align: center;
+}
+
+h2 {
+    color: #222;
+    margin-top: 40px;
+    text-align: left;
+}
+
+h3 {
+    color: #444;
+    font-style: italic;
+    margin-top: 25px;
+    text-align: left;
+}
+
+p {
+    color: #333
+}
+
+table {
+    font-size: 13px;
+    border-width: 0;
+}
+
+th {
+    padding: 10px;
+    color: #FFF;
+    background-color: #777;
+    text-align: left;
+}
+
+td {
+    padding: 5px 20px 5px 10px;
+    background-color: #FEFEFE;
+}
+
+input[type=range] {
+     -webkit-appearance: none;
+    color: #000;
+    opacity:1;
+}
